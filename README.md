@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--### Hi there, I'm Sadab - aka [LazzyGeek][K1Track.com] 👋
+### Hi there, I'm Sadab - aka [LazzyGeek][K1Track.com] 👋
 
 ## I'm a Developer, Student & do Network related stuff!!
 
