@@ -11,4 +11,4 @@
 
 <br />
 <br />
-[![LazzyGeek's GitHub stats](https://github-readme-stats.vercel.app/api?username=LazzyGeek)](https://github.com/LazzyGeek/github-readme-stats)
+<img align="left" alt="LazzyGeek's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=LazzyGeek"&show_icons=true />
