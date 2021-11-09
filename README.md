@@ -5,10 +5,10 @@
 ## I'm a Developer, Student & do Network related stuff!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate on open source projects
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play computergames (Splitgate, Valorant etc.)
+- ⚡ Fun fact: I love to play computergames (CSGO, Valorant etc.)
 
 <br />
 <br />
-<img align="left" alt="LazzyGeek's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=LazzyGeek"&show_icons=true />
+<img align="left" alt="LazzyGeek's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=LazzyGeek"&show_icons=true&theme=dark&text_color=red />
