@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Hi there, I'm Sadab - aka [LazzyGeek][K1Track.com] 👋
+### Hi there, I'm Sadab - aka LazzyGeek 👋
 
 ## I'm a Developer, Student & do Network related stuff!!
 
@@ -8,7 +8,6 @@
 - 👯 I’m looking to collaborate on open source projects
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play computergames (CSGO, Valorant etc.)
-- 
 - **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
