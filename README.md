@@ -11,4 +11,4 @@
 
 <br />
 <br />
-<img align="left" alt="LazzyGeek's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=LazzyGeek"&show_icons=true&theme=radical">
+<img align="left" alt="LazzyGeek's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=LazzyGeek"&show_icons=true&title_color=#49b5eb&icon_color=#5949eb&bg_color=#ffba2c">
