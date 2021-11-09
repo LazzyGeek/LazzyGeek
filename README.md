@@ -24,5 +24,5 @@
 
 
 <a href="https://github.com/LazzyGeek">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LazzyGeek&theme=light&hide_langs_below=1" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LazzyGeek&theme=light&hide_langs_below=1" />
 </a>
